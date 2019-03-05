@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab144c22-83fc-47e2-b2fd-dc7ada09d336" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MakeModelsCommand.php" />
-    </list>
+    <list default="true" id="ab144c22-83fc-47e2-b2fd-dc7ada09d336" name="Default" comment="" />
     <ignored path="barzer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
